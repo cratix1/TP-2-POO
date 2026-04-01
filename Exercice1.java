@@ -20,7 +20,7 @@ public class Exercice1 {
         listeEtudiants.add(new Etudiant(2, "amira", "meghni"));
         
         
-        listeEtudiants.add(new Etudiant(1, "meriel", "meghni")); 
+        listeEtudiants.add(new Etudiant(1, "meriem", "meghni")); 
         listeEtudiants.add(new Etudiant(3, "hiba", "meghni")); 
         
       
